@@ -1,4 +1,4 @@
-## Template modelo-apiv3-tiny
+## Template de Requisição à API v3 do Tiny
 
 Template em Python para consumir a API v3 do Tiny ERP de forma simples e reutilizável.
 
