@@ -1,0 +1,10 @@
+requests
+pandas
+openpyxl
+python-dotenv
+
+# Dependências opcionais para autenticação automática com Selenium
+# Descomente as linhas abaixo se quiser usar o módulo auth_selenium.py
+# selenium
+# webdriver-manager
+
